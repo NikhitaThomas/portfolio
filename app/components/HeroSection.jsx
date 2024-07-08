@@ -10,7 +10,7 @@ function HeroSection() {
         <div className="col-span-7 place-self-center text-center sm:text-left">
           <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-              Hello, I'm{" "}
+              Hello, Im{" "}
             </span>
             <TypeAnimation
               sequence={[
@@ -30,7 +30,7 @@ function HeroSection() {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            A recent Master’s graduate in Computer Science specializing in
+            A recent Masters graduate in Computer Science specializing in
             Network and Information Security from the University of Wollongong.
             Passionate about technology and problem-solving, I have hands-on
             experience in web development and cybersecurity.
